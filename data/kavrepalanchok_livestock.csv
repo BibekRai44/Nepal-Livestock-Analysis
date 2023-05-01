@@ -1,0 +1,92 @@
+﻿_id,Districts,VDC/Municipality,Cattle,Buffalo,Yak/ Nak/ Chauri,Sheep,Goat,Pig
+1,Kavrepalanchok,Anekot,1491,1113,-,16,5953,46
+2,Kavrepalanchok,Baldthali,517,385,-,-,2344,5
+3,Kavrepalanchok,Balting,388,1087,-,-,2978,50
+4,Kavrepalanchok,Baluwapati Deupur,1041,1415,-,42,4967,24
+5,Kavrepalanchok,Banakhu Chor,1512,1383,-,22,4811,198
+6,Kavrepalanchok,Banepa Municipality,614,93,-,33,980,61
+7,Kavrepalanchok,Bekhsimle Ghartigaun,308,367,-,-,1472,10
+8,Kavrepalanchok,Bhimkhori,1057,2387,-,18,5781,278
+9,Kavrepalanchok,Bhumlutar,319,254,-,15,2078,172
+10,Kavrepalanchok,Birtadeurali,882,674,-,-,3245,31
+11,Kavrepalanchok,Bolde Fediche,293,486,-,-,1914,1
+12,Kavrepalanchok,Budhakhani,536,1440,-,14,3567,119
+13,Kavrepalanchok,Chalal Ganeshsthan,421,953,-,-,3737,41
+14,Kavrepalanchok,Chandeni Mandan,902,595,-,9,2869,29
+15,Kavrepalanchok,Choubas,481,666,-,-,2594,10
+16,Kavrepalanchok,Chyamrangbesi,277,773,-,22,1196,12
+17,Kavrepalanchok,Chyasing Kharka,345,611,-,8,2955,12
+18,Kavrepalanchok,Dandagaun,1002,1000,-,353,3043,121
+19,Kavrepalanchok,Dapcha Chatrebhanjh,288,438,-,-,2244,30
+20,Kavrepalanchok,Daraune Pokhari,541,597,-,171,2296,46
+21,Kavrepalanchok,Dewabhumi Baluwa,1346,1136,-,-,5580,137
+22,Kavrepalanchok,Devitar,495,519,-,-,3320,15
+23,Kavrepalanchok,Dhulikhel Municipality,969,357,-,134,3473,242
+24,Kavrepalanchok,Dhunkharka,974,1667,-,-,2813,90
+25,Kavrepalanchok,Dhuseni Siwalaya,352,418,-,61,1665,30
+26,Kavrepalanchok,Dolalghat,497,145,-,18,2295,209
+27,Kavrepalanchok,Falate Bhumlu,380,286,-,-,1705,68
+28,Kavrepalanchok,Falemetar,847,2065,-,-,4080,7
+29,Kavrepalanchok,Foksingtar,954,785,-,-,2684,146
+30,Kavrepalanchok,Gairi Bisouna Deupur,1141,1336,-,9,4322,96
+31,Kavrepalanchok,Ghartichhap,1302,553,-,-,2596,323
+32,Kavrepalanchok,Gokule,1978,1104,-,-,4698,207
+33,Kavrepalanchok,Gothpani,681,608,-,11,3500,79
+34,Kavrepalanchok,Hokse Bazar,1071,670,-,7,4506,73
+35,Kavrepalanchok,Jaisithok Mandan,663,605,-,-,2970,56
+36,Kavrepalanchok,Jyamdi Mandan,1442,929,-,3,5307,98
+37,Kavrepalanchok,Kalati Bhumidanda,534,751,-,28,2949,38
+38,Kavrepalanchok,Kanpur Kalapani,749,1213,-,4,4416,39
+39,Kavrepalanchok,Katike Deurali,520,682,-,212,3046,133
+40,Kavrepalanchok,Katunje Besi,350,643,-,-,2177,34
+41,Kavrepalanchok,Kavre Nitya Chandeswor,1273,628,-,-,3104,31
+42,Kavrepalanchok,Khahare Pangu,407,564,-,20,2390,32
+43,Kavrepalanchok,Khanalthok,809,1064,-,19,3603,42
+44,Kavrepalanchok,Kharelthok,653,445,-,4,3151,139
+45,Kavrepalanchok,Kharpachok,184,452,-,-,1923,18
+46,Kavrepalanchok,Kolati Bhumlu,494,287,-,172,1492,75
+47,Kavrepalanchok,Koshidekha,578,378,-,-,2032,147
+48,Kavrepalanchok,Kuruwas Chapakhori,668,512,-,-,2760,16
+49,Kavrepalanchok,Kushadevi,2008,1302,-,3,4276,177
+50,Kavrepalanchok,Machchhegaun,1557,1252,-,-,6194,110
+51,Kavrepalanchok,Madan Kundari,370,580,-,-,2598,20
+52,Kavrepalanchok,Mahadevsthan Mandan,2126,1412,-,-,5358,39
+53,Kavrepalanchok,Mahadevtar,288,583,-,-,1969,83
+54,Kavrepalanchok,Mahankal Chaur,551,795,-,-,3414,39
+55,Kavrepalanchok,Mahendra Jyoti,944,70,-,19,1495,6
+56,Kavrepalanchok,Majhi Feda,885,739,-,109,2916,308
+57,Kavrepalanchok,Mangaltar,514,1280,-,9,4465,167
+58,Kavrepalanchok,Mathurapati Fulbari,930,829,-,"",3194,94
+59,Kavrepalanchok,Methinkot,979,1208,-,3,3929,71
+60,Kavrepalanchok,Milche,785,627,-,260,2338,55
+61,Kavrepalanchok,Nagre Gagarche,615,652,-,9,2165,32
+62,Kavrepalanchok,Ugrachandi Nala,1302,453,-,4,2752,54
+63,Kavrepalanchok,Nasikasthan Sanga,651,138,-,24,2026,78
+64,Kavrepalanchok,Nayagaun Deupur,965,1046,-,-,3284,28
+65,Kavrepalanchok,Panauti Municipality,3018,729,-,116,7249,234
+66,Kavrepalanchok,Panchkhal,1772,1266,-,3,7840,285
+67,Kavrepalanchok,Patalekhet,741,417,-,-,2828,53
+68,Kavrepalanchok,Pokhari Chauri,856,1021,-,25,4143,41
+69,Kavrepalanchok,Pokhari Narayansthan,530,805,-,-,3566,50
+70,Kavrepalanchok,Puranogaun Dapcha,480,332,-,11,1530,33
+71,Kavrepalanchok,Ravi Opi,1248,463,-,-,3042,34
+72,Kavrepalanchok,Ryale,1044,905,-,-,3459,13
+73,Kavrepalanchok,Saldhara,774,947,-,25,2434,10
+74,Kavrepalanchok,Salle Bhumlu,405,548,-,-,2710,28
+75,Kavrepalanchok,Salmechakala (Taldhunga),669,505,-,130,1412,54
+76,Kavrepalanchok,Sankhupati Chour,604,194,-,8,1923,3
+77,Kavrepalanchok,Sanowangthali,506,419,-,-,1769,46
+78,Kavrepalanchok,Saping,745,757,-,-,4033,91
+79,Kavrepalanchok,Sarada Batase,663,120,-,3,1800,34
+80,Kavrepalanchok,Saramthali,189,232,-,68,926,14
+81,Kavrepalanchok,Sarasyunkhark,941,1088,-,21,5428,55
+82,Kavrepalanchok,Sathighar Bhagawati,550,328,-,-,2711,90
+83,Kavrepalanchok,Sikhar Ambote,547,857,-,-,4194,94
+84,Kavrepalanchok,Simalchour Syampati,597,506,-,-,2349,21
+85,Kavrepalanchok,Simthali,357,505,-,15,1947,15
+86,Kavrepalanchok,Sipali Chilaune,222,924,-,-,2165,18
+87,Kavrepalanchok,Sisakhani,266,482,-,-,1957,12
+88,Kavrepalanchok,Thulo Parsel,432,619,-,6,2710,134
+89,Kavrepalanchok,Tukucha Nala,1509,653,-,19,3228,27
+90,Kavrepalanchok,Ugratara Janagal,937,145,-,3,1549,23
+91,Total,-,71598,66252,-,2318,280856,6789

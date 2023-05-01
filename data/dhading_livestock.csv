@@ -1,0 +1,52 @@
+﻿_id,Districts,VDC/Municipality,Cattle,Buffalo,Yak/ Nak/ Chauri,Sheep,Goat,Pig
+1,Dhading,Aginchok,1327,1263,34,457,3955,76
+2,Dhading,Baireni,3439,2882,-,19,12077,211
+3,Dhading,Baseri,927,1446,6,301,2568,16
+4,Dhading,Benighat,2226,1882,-,21,9057,277
+5,Dhading,Bhumesthan,2385,2376,3,44,11126,94
+6,Dhading,Budhathum,1226,1349,-,260,3151,14
+7,Dhading,Chainpur,2129,2192,7,-,7240,59
+8,Dhading,Chhatredeurali,1314,672,-,1,8205,19
+9,Dhading,Darkha,1279,2191,9,170,3397,511
+10,Dhading,Dhola,1668,1442,2,2,4995,37
+11,Dhading,Dhussa,2714,1349,-,11,9318,511
+12,Dhading,Dhuwakot,1516,1834,3,7,4405,50
+13,Dhading,Gajuri,2414,1910,7,408,7487,337
+14,Dhading,Goganpani,1936,1215,-,-,6800,59
+15,Dhading,Gumdi,2094,2088,4,293,4540,28
+16,Dhading,Jeewanpur,2381,1333,-,-,8826,118
+17,Dhading,Jharlang,1874,1329,1,-,2060,1004
+18,Dhading,Jogimara,3290,1479,1,5,9771,372
+19,Dhading,Jyamrung,2024,2312,10,-,6449,79
+20,Dhading,Kalleri,4374,2257,7,5,11433,276
+21,Dhading,Katunje,1653,2081,15,46,5767,39
+22,Dhading,Kewalpur,1361,936,-,41,5918,21
+23,Dhading,Khalte,3470,2254,1,28,8474,276
+24,Dhading,Khari,1590,1499,6,2,4444,156
+25,Dhading,Kiranchok,1764,2252,-,27,6647,20
+26,Dhading,Kumpur,4602,2578,3,27,12031,221
+27,Dhading,Lapa,2413,935,3,1694,2686,40
+28,Dhading,Mahadevsthan,3090,1435,-,-,8689,306
+29,Dhading,Maidi,3626,3063,71,-,9462,420
+30,Dhading,Marpak,1430,1385,3,66,3730,93
+31,Dhading,Mulpani,1300,1261,4,38,3873,109
+32,Dhading,Murali Bhanjyang,2509,1824,8,-,6181,172
+33,Dhading,Nalang,2935,2332,2,4,7919,156
+34,Dhading,Naubise,2629,1163,1,2,10415,106
+35,Dhading,Nilkantha,2776,2458,11,13,8237,360
+36,Dhading,Phulkharka,1596,1712,6,520,3346,129
+37,Dhading,Pida,3548,2796,25,221,10847,542
+38,Dhading,Ree Gaun,1754,1631,3,211,4559,57
+39,Dhading,Salang,2697,1538,-,4,6902,415
+40,Dhading,Salyankot,1542,1450,3,51,5301,17
+41,Dhading,Salyantar,2376,1903,-,3,4912,432
+42,Dhading,Sangkosh,2056,1576,4,11,5618,95
+43,Dhading,Satyadevi,909,1651,3,87,2405,18
+44,Dhading,Semjong,1156,1399,1,-,2547,35
+45,Dhading,Sertung,2710,800,-,541,2722,24
+46,Dhading,Sunaula Bazar,2906,1785,2,-,8114,485
+47,Dhading,Tasarpu,1123,1074,-,-,6205,87
+48,Dhading,Thakre,1818,1013,-,-,8031,168
+49,Dhading,Tipling,1861,281,193,797,1755,17
+50,Dhading,Tripureswor,678,1158,6,-,3230,34
+51,Total,-,108415,84024,468,6438,317827,9198

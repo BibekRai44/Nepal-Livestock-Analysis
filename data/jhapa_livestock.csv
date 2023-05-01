@@ -1,0 +1,52 @@
+﻿_id,Districts,VDC/Municipality,Cattle,Buffalo,Yak/ Nak/ Chauri,Sheep,Goat,Pig
+1,Jhapa,Anarmani,2432,386,-,90,3033,634
+2,Jhapa,Arjundhara,7157,1337,-,20,7657,1383
+3,Jhapa,Bahundangi,8459,2326,-,28,10772,2046
+4,Jhapa,Baigundhura,2948,1339,-,-,4682,269
+5,Jhapa,Balubadi,2515,462,-,23,2316,193
+6,Jhapa,Baniyani,2556,333,-,8,1963,88
+7,Jhapa,Bhadrapur Municipality,2490,117,-,15,1656,244
+8,Jhapa,Budhabare,6087,1756,-,9,7761,1473
+9,Jhapa,Chakchaki,3892,1096,-,27,5032,400
+10,Jhapa,Chandragadhi,5553,660,-,2,5695,459
+11,Jhapa,Charpane,2735,507,-,72,3174,609
+12,Jhapa,Damak Municipality,10942,3062,-,197,14382,5184
+13,Jhapa,Dangibari,3109,828,-,-,3781,405
+14,Jhapa,Dhaijan,2901,559,-,22,3689,1336
+15,Jhapa,Dharampur,5823,2045,-,280,7687,2265
+16,Jhapa,Duwagadhi,3144,547,-,68,2741,569
+17,Jhapa,Garamani,6993,1454,-,40,9129,937
+18,Jhapa,Gauradaha,5659,1433,-,41,7802,720
+19,Jhapa,Gauriganj,4229,735,-,22,4183,355
+20,Jhapa,Ghailadubba,4047,896,-,11,4555,660
+21,Jhapa,Gherabari,3166,801,-,2,2997,173
+22,Jhapa,Goldhap,3045,978,-,-,4254,949
+23,Jhapa,Haldibari,2846,500,-,15,3957,495
+24,Jhapa,Jalthal,5393,1439,-,39,6994,2061
+25,Jhapa,Juropani,4858,1065,-,13,6207,238
+26,Jhapa,Jyamirgadhi,5119,992,-,132,5010,592
+27,Jhapa,Kechana,2552,163,-,28,1895,51
+28,Jhapa,Khajurgachhi,4271,772,-,8,3840,145
+29,Jhapa,Khudunabari,5444,1980,-,23,7166,1763
+30,Jhapa,Kohabara,3916,1772,-,-,5379,444
+31,Jhapa,Korobari,3069,654,-,50,2983,274
+32,Jhapa,Kumarkhod,3514,1135,-,16,3674,620
+33,Jhapa,Lakhanpur,6453,2326,-,11,8384,2410
+34,Jhapa,Mahabhara,2802,795,-,53,2927,398
+35,Jhapa,Maharanijhoda,4356,1568,-,25,7009,477
+36,Jhapa,Maheshpur,5065,573,-,-,4973,1007
+37,Jhapa,Mechinagar Municipality,9943,1614,-,48,10606,2918
+38,Jhapa,Panchgachhi,4118,811,-,21,3749,254
+39,Jhapa,Pathamari,2344,185,-,27,1587,42
+40,Jhapa,Pathariya,5068,664,-,19,4344,181
+41,Jhapa,Prithivinagar,6408,905,-,151,7663,1836
+42,Jhapa,Rajgadh,6367,1857,-,3,6924,572
+43,Jhapa,Sanischare,6618,1124,-,19,7698,2034
+44,Jhapa,Satasidham,8559,1810,-,20,9742,3327
+45,Jhapa,Shantinagar,6030,764,-,57,7496,2638
+46,Jhapa,Sharanamati,6490,2252,-,40,7963,691
+47,Jhapa,Shivaganj,4597,1358,-,27,5489,873
+48,Jhapa,Surunga,8098,2377,-,9,9289,1591
+49,Jhapa,Taghandubba,3947,1330,-,5,4348,297
+50,Jhapa,Topgachhi,9068,3488,-,79,12768,2785
+51,Total,-,247195,59930,-,1915,289005,52365

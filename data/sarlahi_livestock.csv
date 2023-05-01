@@ -1,0 +1,102 @@
+﻿_id,Districts,VDC/Municipality,Cattle,Buffalo,Yak/ Nak/ Chauri,Sheep,Goat,Pig
+1,Sarlahi,Achalgadh,221,252,-,-,743,8
+2,Sarlahi,Arnaha,291,344,-,1,1203,-
+3,Sarlahi,Atrouli,1027,1122,-,3,3901,36
+4,Sarlahi,Aurahi,705,661,-,-,1311,-
+5,Sarlahi,Babarganj,1045,1047,-,5,3095,86
+6,Sarlahi,Bagdaha,726,645,-,1,1944,3
+7,Sarlahi,Bahadurpur,134,137,-,-,423,-
+8,Sarlahi,Balara,322,310,-,45,906,31
+9,Sarlahi,Bara Udhoran,406,314,-,27,887,45
+10,Sarlahi,Barahathawa,1184,1809,-,2,3502,87
+11,Sarlahi,Basantapur,1949,759,-,-,2742,7
+12,Sarlahi,Batraul,617,646,-,74,1272,3
+13,Sarlahi,Bela,476,334,-,-,1217,10
+14,Sarlahi,Belhi,524,492,-,48,1124,47
+15,Sarlahi,Belwa Jabdi,531,513,-,3,1867,9
+16,Sarlahi,Bhadsar,271,339,-,-,961,3
+17,Sarlahi,Bhagawatipur,487,655,-,37,1413,28
+18,Sarlahi,Bhaktipur,4562,1078,-,23,5215,168
+19,Sarlahi,Bhawanipur,422,357,-,-,881,30
+20,Sarlahi,Brahmapuri,903,514,-,1,1980,-
+21,Sarlahi,Chandra Nagar,936,599,-,1,2234,117
+22,Sarlahi,Chhataul,833,627,-,-,2137,8
+23,Sarlahi,Chhatona,272,203,-,1,586,10
+24,Sarlahi,Dhanakaul Pachhawari,497,232,-,4,417,1
+25,Sarlahi,Dhanakaul Purba,1125,744,-,-,2725,81
+26,Sarlahi,Dhangadha,1304,560,-,-,2107,42
+27,Sarlahi,Dhungrekhola,2306,2503,-,-,8822,189
+28,Sarlahi,Dhurkauli,952,1823,-,-,3875,17
+29,Sarlahi,Dumariya,470,288,-,-,878,-
+30,Sarlahi,Farahadawa,495,480,-,-,1127,6
+31,Sarlahi,Fulparasi,359,452,-,5,1017,14
+32,Sarlahi,Gadahiyabairi,409,544,-,1,1136,117
+33,Sarlahi,Gamhariya,775,851,-,-,2451,-
+34,Sarlahi,Godeta,521,456,-,-,1593,43
+35,Sarlahi,Gourishankar,2677,1158,-,5,3504,69
+36,Sarlahi,Hajariya,1271,2768,-,8,6231,147
+37,Sarlahi,Harakthawa,543,626,-,26,1324,-
+38,Sarlahi,Haripur,2013,938,-,59,3629,94
+39,Sarlahi,Haripurwa,2381,1290,-,1,4050,26
+40,Sarlahi,Hariyon,1588,2253,-,84,6815,263
+41,Sarlahi,Hathiyol,686,713,-,-,2193,8
+42,Sarlahi,Hempur,1210,1186,-,20,3074,22
+43,Sarlahi,Ishworpur,2490,1770,-,9,5167,175
+44,Sarlahi,Jabdi,1513,839,-,7,3127,106
+45,Sarlahi,Jamuniya,1068,948,-,1,2781,22
+46,Sarlahi,Janaki Nagar,1150,1356,-,6,2815,51
+47,Sarlahi,Jingadawa,468,359,-,-,1213,4
+48,Sarlahi,Kabilasi,1328,915,-,-,2457,45
+49,Sarlahi,Kalinjor,2178,943,-,2,5373,111
+50,Sarlahi,Karmaiya,951,1485,-,129,4333,133
+51,Sarlahi,Khirwa,1107,996,-,2,2857,13
+52,Sarlahi,Khoriya,483,647,-,-,1630,87
+53,Sarlahi,Khutauna,401,493,-,2,1243,1
+54,Sarlahi,Kisanpur,532,653,-,-,1777,-
+55,Sarlahi,Kaudena,641,544,-,-,2009,9
+56,Sarlahi,Lalbandi,1180,1003,-,1,4450,219
+57,Sarlahi,Laukath,859,921,-,5,2551,98
+58,Sarlahi,Laxmipur Kodraha,813,505,-,140,1908,29
+59,Sarlahi,Laxmipur Su.,421,519,-,1,1636,28
+60,Sarlahi,Madhubangoth,412,498,-,1,1828,18
+61,Sarlahi,Madhubani,179,258,-,-,667,1
+62,Sarlahi,Mahinathpur,399,484,-,5,759,6
+63,Sarlahi,Bhelhi,452,362,-,-,1345,21
+64,Sarlahi,Malangawa Municipality,874,1169,-,21,3410,51
+65,Sarlahi,Manpur,1271,1019,-,9,2570,20
+66,Sarlahi,Mirjapur,292,302,-,-,1635,61
+67,Sarlahi,Mohanpur,561,557,-,9,1516,4
+68,Sarlahi,Motipur,399,531,-,6,738,-
+69,Sarlahi,Murtiya,929,1538,-,45,2609,141
+70,Sarlahi,Musauli,379,483,-,-,1400,-
+71,Sarlahi,Narayan Khola,2358,1110,-,96,4361,135
+72,Sarlahi,Narayanpur,288,369,-,11,994,-
+73,Sarlahi,Netraganj,1148,980,-,4,2845,34
+74,Sarlahi,Noukailawa,1465,1100,-,142,2366,17
+75,Sarlahi,Parsa,745,490,-,35,1859,1
+76,Sarlahi,Parwanipur,3636,1896,-,9,8322,217
+77,Sarlahi,Pattharkot,2168,959,-,4,5392,267
+78,Sarlahi,Pidari,712,400,-,-,998,12
+79,Sarlahi,Pidariya,424,643,-,-,1403,74
+80,Sarlahi,Pipariya,797,454,-,61,1493,24
+81,Sarlahi,Rajghat,1787,3397,-,6,6015,292
+82,Sarlahi,Ramban,353,388,-,18,1297,18
+83,Sarlahi,Ramnagar Bahuarwa,657,611,-,-,1152,12
+84,Sarlahi,Raniganj,1119,773,-,30,2479,43
+85,Sarlahi,Rohuwa,246,169,-,-,324,11
+86,Sarlahi,Sakraul,398,647,-,1,1528,-
+87,Sarlahi,Salempur,917,911,-,-,2085,45
+88,Sarlahi,Sangrampur,1050,600,-,-,2040,1
+89,Sarlahi,Sankarpur,1470,1920,-,227,3117,130
+90,Sarlahi,Sasapur,458,514,-,3,2027,60
+91,Sarlahi,Shreepur,761,671,-,-,1143,1
+92,Sarlahi,Sikhauna,404,459,-,-,1353,105
+93,Sarlahi,Simara,946,806,-,-,2750,-
+94,Sarlahi,Sisotiya,1304,888,-,52,2391,64
+95,Sarlahi,Sisout,678,608,-,48,1468,29
+96,Sarlahi,Sahodawa,602,455,-,-,1377,16
+97,Sarlahi,Sudama,306,355,-,-,1181,-
+98,Sarlahi,Sundarpur,381,504,-,-,1609,2
+99,Sarlahi,Sundarpur Choharwa,1092,1327,-,2,3146,29
+100,Sarlahi,Tribhuwan Nagar,183,214,-,13,575,22
+101,Total,-,93009,80337,-,1648,233406,4990

@@ -1,0 +1,99 @@
+﻿_id,Districts,VDC/Municipality,Cattle,Buffalo,Yak/ Nak/ Chauri,Sheep,Goat,Pig
+1,Rautahat,Ajagabi,300,247,-,5,879,7
+2,Rautahat,Akolawa,254,221,-,-,631,31
+3,Rautahat,Auraiya,580,829,-,13,2511,37
+4,Rautahat,Badharwa,356,290,-,8,1284,3
+5,Rautahat,Bagahi,226,605,-,1,1645,25
+6,Rautahat,Baluwa Madanpur,246,226,-,3,925,7
+7,Rautahat,Bairiya,198,139,-,3,265,-
+8,Rautahat,Banjaraha,152,207,-,4,688,13
+9,Rautahat,Bariyarpur,658,872,-,-,1963,16
+10,Rautahat,Basantapatti,159,341,-,-,779,8
+11,Rautahat,Basatpur,273,320,-,16,1076,11
+12,Rautahat,Basbiti Jingadiya,343,276,-,14,1038,1
+13,Rautahat,Bhalohiya(Pipra),487,215,-,16,1125,8
+14,Rautahat,Bhediyahi,178,163,-,-,400,-
+15,Rautahat,Birtiprastoka,398,310,-,41,1182,42
+16,Rautahat,Bishrampur,1572,1082,-,-,3385,56
+17,Rautahat,Bisunpurwa Manpur,245,252,-,3,731,10
+18,Rautahat,Brahmapuri,122,236,-,-,832,-
+19,Rautahat,Chandranigahapur,4921,2573,-,1,10824,424
+20,Rautahat,Debahi,435,384,-,5,452,-
+21,Rautahat,Dharampur,1298,874,-,1,2432,44
+22,Rautahat,Dharhari,119,238,-,-,970,-
+23,Rautahat,Dipahi,284,362,-,-,931,7
+24,Rautahat,Dumariya(Matiauna),1935,1651,-,-,4644,188
+25,Rautahat,Dumriya(Paroha),210,494,-,-,1249,3
+26,Rautahat,Fatuha Maheshpur,267,296,-,1,1311,-
+27,Rautahat,Fatuwa Harsaha,242,501,-,3,1367,8
+28,Rautahat,Gadhi Bhanawanpur,76,108,-,9,487,32
+29,Rautahat,Gamhariya Birta,542,531,-,3,1668,-
+30,Rautahat,Gamhariya Parsa,205,245,-,1,883,11
+31,Rautahat,Gangapipara,253,165,-,-,592,81
+32,Rautahat,Garuda Bairiya,149,245,-,16,434,5
+33,Rautahat,Gaur Municipality,1245,1483,-,41,5130,168
+34,Rautahat,Gedahiguthi,235,381,-,4,849,4
+35,Rautahat,Hadirya Paltuwa,608,659,-,-,893,10
+36,Rautahat,Hajminiya,173,247,-,33,669,12
+37,Rautahat,Hathiyahi,478,454,-,-,1428,24
+38,Rautahat,Iharbari Jyutahi,338,591,-,3,1767,6
+39,Rautahat,Inaruwa,287,447,-,-,1596,9
+40,Rautahat,Jatahara,356,523,-,-,1613,-
+41,Rautahat,Jayanagar,264,375,-,-,757,-
+42,Rautahat,Jethrahiya,317,336,-,3,1153,4
+43,Rautahat,Jhunkhunwa,477,537,-,64,1764,33
+44,Rautahat,Jingadawa Belbichwa,263,356,-,4,1288,-
+45,Rautahat,Jowaha(Jokaha),248,399,-,37,901,34
+46,Rautahat,Judibela,1509,925,-,23,3539,68
+47,Rautahat,Kakanpur,929,1019,-,3,3361,91
+48,Rautahat,Karkach Karmaiya,522,531,-,2,1405,-
+49,Rautahat,Karuniya,319,325,-,2,971,10
+50,Rautahat,Katahariya,821,701,-,1,2934,24
+51,Rautahat,Khesarhiya,272,259,-,1,859,17
+52,Rautahat,Laxminiya Do.,870,1756,-,5,4474,327
+53,Rautahat,Laxmipur (Do.),362,416,-,-,1078,13
+54,Rautahat,Laxmipur Belbichawa,272,372,-,-,1196,50
+55,Rautahat,Lokaha,280,392,-,1,1052,-
+56,Rautahat,Madhopur,592,716,-,2,1300,34
+57,Rautahat,Mahamadpur,640,703,-,10,1508,80
+58,Rautahat,Malahi,147,203,-,1,829,8
+59,Rautahat,Maryadpur,464,476,-,5,1247,17
+60,Rautahat,Masedawa,1155,784,-,-,1705,3
+61,Rautahat,Mathiya,260,380,-,-,531,5
+62,Rautahat,Matsari,271,185,-,-,395,-
+63,Rautahat,Mithuawa,383,256,-,-,913,21
+64,Rautahat,Mudwalawa,346,418,-,4,1135,61
+65,Rautahat,Narkatiya Guthi,288,524,-,-,1326,4
+66,Rautahat,Pacharukhi,413,456,-,3,837,-
+67,Rautahat,Pataura,615,1012,-,-,2381,10
+68,Rautahat,Pathara Budharam,644,577,-,6,1739,21
+69,Rautahat,Paurai,1480,1110,-,-,4237,289
+70,Rautahat,Pipara Pokhariya,512,658,-,1,1789,58
+71,Rautahat,Pipariya(Dostiya),467,514,-,-,992,1
+72,Rautahat,Pipariya(Paroha),648,761,-,7,2484,5
+73,Rautahat,Pipra Bhagwanpur,320,304,-,8,836,-
+74,Rautahat,Pipra Rajbara,583,575,-,-,1315,37
+75,Rautahat,Pothiyahi,321,483,-,-,1343,11
+76,Rautahat,Pratappur Paltuwa,554,587,-,-,2082,19
+77,Rautahat,Prempur Gunahi,356,736,-,1,1790,22
+78,Rautahat,Raghunathpur,324,396,-,2,1595,40
+79,Rautahat,Rajdevi,384,468,-,-,1548,9
+80,Rautahat,Rajpur Farhadawa,594,858,-,19,2893,1
+81,Rautahat,Rajpur Tulsi,260,292,-,-,1288,16
+82,Rautahat,Ramoli Bairiya,502,353,-,-,1074,2
+83,Rautahat,Rampur Khap,188,235,-,1,232,1
+84,Rautahat,Rangapur,1963,1259,-,6,5942,234
+85,Rautahat,Sakhuawa,357,407,-,-,766,2
+86,Rautahat,Sakhuwa Dhamaura,620,588,-,-,1470,32
+87,Rautahat,Samanpur,985,683,-,-,2242,46
+88,Rautahat,Sangrampur,636,677,-,-,1511,7
+89,Rautahat,Santapur(Dostiya),469,688,-,-,1290,6
+90,Rautahat,Santpur(Matiaun),1165,1425,-,-,3620,178
+91,Rautahat,Sarmujawa,568,851,-,7,2278,58
+92,Rautahat,Saruatha,381,451,-,-,1270,2
+93,Rautahat,Saunaraniya,496,489,-,-,1748,12
+94,Rautahat,Shitalpur Bairgania,446,627,-,-,1675,4
+95,Rautahat,Simara Bhawanipur,489,527,-,9,2083,98
+96,Rautahat,Tejapakar,249,263,-,-,304,3
+97,Rautahat,Tengraha,473,483,-,-,1200,6
+98,Total,-,52136,53420,-,486,159003,3445

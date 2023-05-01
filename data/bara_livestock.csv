@@ -1,0 +1,101 @@
+﻿_id,Districts,VDC/Municipality,Cattle,Buffalo,Yak/ Nak/ Chauri,Sheep,Goat,Pig
+1,Bara,Amarpatti,344,291,-,-,933,21
+2,Bara,Amlekhganj,927,120,-,19,2944,221
+3,Bara,Amritgang,226,818,-,9,2919,15
+4,Bara,Amab,490,281,-,6,2030,25
+5,Bara,Babuain,163,137,-,-,521,6
+6,Bara,Bachhanpurwa,381,386,-,74,1579,178
+7,Bara,Badaki Fulbariya,365,655,-,5,1409,20
+8,Bara,Bagahi,352,398,-,27,751,17
+9,Bara,Bahuari,127,247,-,12,259,-
+10,Bara,Balirampur,387,542,-,-,2067,16
+11,Bara,Baghawan,235,411,-,-,1505,66
+12,Bara,Banjariya,303,629,-,-,1655,32
+13,Bara,Barainiya,148,334,-,30,834,24
+14,Bara,Bariyarpur,517,767,-,24,2319,63
+15,Bara,Basatpur,160,461,-,2,1531,-
+16,Bara,Batara,120,362,-,13,575,94
+17,Bara,Beldari,359,548,-,2,981,-
+18,Bara,Benauli,364,556,-,3,1591,30
+19,Bara,Bhagwanpur,355,418,-,1,905,22
+20,Bara,Bhaluhi Bharbaliya,305,663,-,1,1509,15
+21,Bara,Bharatganj Sigaul,2204,745,-,-,3755,187
+22,Bara,Bhatauda,204,598,-,1,1094,-
+23,Bara,Bhodaha,500,423,-,-,1333,4
+24,Bara,Bishrampur,275,497,-,-,970,-
+25,Bara,Bishunpur,159,258,-,-,898,3
+26,Bara,Bishunpurwa,310,192,-,2,1254,50
+27,Bara,Buniyad,299,524,-,9,1269,13
+28,Bara,Chhata Pipra,427,337,-,-,1453,17
+29,Bara,Chhatawa,192,570,-,-,1002,4
+30,Bara,Dahiyar,481,444,-,21,1225,31
+31,Bara,Dewapur,395,532,-,-,1253,51
+32,Bara,Dharma Nagar,165,364,-,-,1201,27
+33,Bara,Dohari,547,448,-,-,1515,16
+34,Bara,Dumarwana,3604,3113,-,5,11744,565
+35,Bara,Fattepur,753,656,-,-,2671,53
+36,Bara,Gadhahal,227,167,-,9,705,19
+37,Bara,Ganj Bhawanipur,116,160,-,1,275,9
+38,Bara,Golaganj,140,330,-,-,1357,2
+39,Bara,Haraiya,840,1230,-,2,2772,45
+40,Bara,Hardiya,554,689,-,3,1367,6
+41,Bara,Hariharpur,249,416,-,-,1325,3
+42,Bara,Inarwamal,597,796,-,4,2104,9
+43,Bara,Inarwasira,691,991,-,-,3243,17
+44,Bara,Itiyahi,198,445,-,28,656,47
+45,Bara,Jhitakaiya(Dakshin),368,749,-,-,1725,2
+46,Bara,Jhitakaiya(Uttar),347,730,-,-,1853,3
+47,Bara,Jitpur Bhawanipur,540,463,-,12,2333,37
+48,Bara,Kabahigoth,619,745,-,5,1820,57
+49,Bara,Kabahijabdi,286,207,-,-,839,6
+50,Bara,Kachorwa,594,744,-,85,1923,29
+51,Bara,Kakadi,566,525,-,3,1155,69
+52,Bara,Kalaiya Municipality,964,1773,-,20,5617,46
+53,Bara,Karaiya,541,410,-,34,806,12
+54,Bara,Khopawa,216,268,-,-,1112,8
+55,Bara,Khutwajabdi,130,278,-,-,647,28
+56,Bara,Kolhabi,450,832,-,-,2788,49
+57,Bara,Kudawa,263,481,-,49,1168,9
+58,Bara,Laxmipur Kotwali,318,476,-,-,1645,2
+59,Bara,Lipanimal,138,266,-,3,761,-
+60,Bara,Madhurijabdi,328,253,-,53,550,31
+61,Bara,Mahendra Adarsha,365,559,-,4,1930,9
+62,Bara,Maheshpur,645,796,-,1,2114,3
+63,Bara,Majhariya,300,383,-,1,969,35
+64,Bara,Manaharwa,1076,1375,-,38,3856,236
+65,Bara,Matiarwa,123,379,-,-,1134,9
+66,Bara,Motisar,189,438,-,3,1009,39
+67,Bara,Narahi,275,232,-,-,618,8
+68,Bara,Nijgadh,3209,3213,-,72,8629,354
+69,Bara,Pakadiya Chikani,222,428,-,3,971,3
+70,Bara,Paparpati Jabdi,161,166,-,-,553,5
+71,Bara,Paterwa,188,205,-,-,586,29
+72,Bara,Patharhati,297,403,-,-,1363,17
+73,Bara,Pathera,297,201,-,2,525,16
+74,Bara,Pheta,101,490,-,1,45,-
+75,Bara,Pipara Simara,1225,1229,-,33,5037,171
+76,Bara,Piparabirta,359,350,-,2,1193,42
+77,Bara,Piparpati Parchrouwa,242,428,-,-,1445,-
+78,Bara,Pipra Basantapur,339,229,-,5,1447,104
+79,Bara,Pipradhi Goth,226,381,-,-,1462,-
+80,Bara,Prasauni,186,458,-,3,709,15
+81,Bara,Prasauna,431,385,-,-,1481,105
+82,Bara,Prastoka,398,786,-,12,1727,11
+83,Bara,Prasurampur,370,401,-,33,1257,10
+84,Bara,Purainiya,129,403,-,22,1544,-
+85,Bara,Raghunathpur,63,332,-,-,1149,1
+86,Bara,Rampur Tokani,148,327,-,-,955,1
+87,Bara,Rampurwa,514,408,-,-,1855,73
+88,Bara,Ratanpuri,4305,1337,-,-,8954,76
+89,Bara,Rauwahi,268,260,-,-,848,1
+90,Bara,Sapahi,1189,1503,-,-,4427,162
+91,Bara,Shreenagar Bairiya,261,393,-,-,1058,-
+92,Bara,Sihorwa,253,231,-,-,865,30
+93,Bara,Sinhasani,622,501,-,-,1428,87
+94,Bara,Sisahaniya,62,240,-,-,467,-
+95,Bara,Tedhakatti,478,395,-,-,1061,33
+96,Bara,Telkuwa,345,418,-,-,948,10
+97,Bara,Tetariya,310,166,-,-,761,37
+98,Bara,Uchidiha,157,322,-,-,1065,2
+99,Bara,Umarjan,618,461,-,-,1650,157
+100,Total,-,48369,54761,-,812,171095,4322

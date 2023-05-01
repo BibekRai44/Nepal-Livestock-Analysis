@@ -1,0 +1,81 @@
+﻿_id,Districts,VDC/Municipality,Cattle,Buffalo,Yak/ Nak/ Chauri,Sheep,Goat,Pig
+1,Sindhupalchok,Atarpur,596,589,2,"",1734,16
+2,Sindhupalchok,Badegau,1441,1251,1,14,5056,28
+3,Sindhupalchok,Bansbari,647,1193,1,119,3060,229
+4,Sindhupalchok,Banskharka,591,541,2,28,1711,19
+5,Sindhupalchok,Baramchi,1362,578,-,1,2568,11
+6,Sindhupalchok,Barhabise,1174,810,5,19,5210,44
+7,Sindhupalchok,Baruwa,409,583,3,16,915,5
+8,Sindhupalchok,Batase,1364,1664,-,-,5414,10
+9,Sindhupalchok,Bhimtar,1164,860,2,130,2291,359
+10,Sindhupalchok,Bhotasipa,1118,1141,5,2,4381,125
+11,Sindhupalchok,Bhote Namlang,945,572,95,216,2386,71
+12,Sindhupalchok,Bhotechaur,1078,1354,7,-,3477,7
+13,Sindhupalchok,Chokati,666,464,1,89,2314,25
+14,Sindhupalchok,Chautara,478,375,5,18,3269,133
+15,Sindhupalchok,Dhumthang,2165,793,2,171,4219,4
+16,Sindhupalchok,Dubachour,1266,1527,3,-,4530,36
+17,Sindhupalchok,Fatakshila,757,1060,1,109,3195,18
+18,Sindhupalchok,Fulpingdanda,1007,1286,-,4,4134,68
+19,Sindhupalchok,Fulpingkatti,922,201,518,203,2453,6
+20,Sindhupalchok,Fulpingkot,1149,1108,3,1,4042,24
+21,Sindhupalchok,Gati,1491,365,38,10,3557,56
+22,Sindhupalchok,Ghorthali,866,176,120,82,1869,-
+23,Sindhupalchok,Dhuskun,938,652,15,16,3658,11
+24,Sindhupalchok,Gloche,2277,527,133,1059,4920,107
+25,Sindhupalchok,Gumba,1493,295,962,764,3132,1
+26,Sindhupalchok,Gunsakot,656,274,35,190,842,25
+27,Sindhupalchok,Hagam,1584,975,-,85,2847,38
+28,Sindhupalchok,Haibung,294,784,-,"",1982,-
+29,Sindhupalchok,Helambu,1021,766,201,293,468,31
+30,Sindhupalchok,Ichok,1744,1705,2,15,2775,29
+31,Sindhupalchok,Irkhu,749,892,1,-,3306,23
+32,Sindhupalchok,Jalbire,554,499,20,15,1637,46
+33,Sindhupalchok,Jethal,583,518,"","",1889,38
+34,Sindhupalchok,Jyamire,1448,1828,19,50,5702,28
+35,Sindhupalchok,Kadambas,783,924,5,6,4273,99
+36,Sindhupalchok,Kalika,390,643,-,-,2601,105
+37,Sindhupalchok,Karthali,1158,519,42,69,3519,-
+38,Sindhupalchok,Kiwool,720,976,21,80,1573,69
+39,Sindhupalchok,Kubhinde,522,920,2,2,2983,11
+40,Sindhupalchok,Kunchok,903,913,12,57,4855,57
+41,Sindhupalchok,Langarche,713,873,8,110,2578,44
+42,Sindhupalchok,Lisankhu,1544,813,3,-,4175,171
+43,Sindhupalchok,Listikot,1469,397,452,161,3510,7
+44,Sindhupalchok,Mahankal,875,1446,5,7,3400,40
+45,Sindhupalchok,Maneswnara,1303,459,-,8,3264,7
+46,Sindhupalchok,Mankha,1401,1722,8,7,6075,226
+47,Sindhupalchok,Marming,1018,159,217,-,2465,-
+48,Sindhupalchok,Melamchi,716,1047,4,-,3375,30
+49,Sindhupalchok,Bhotang,921,659,6,5,1348,-
+50,Sindhupalchok,Nawalpur,641,1074,2,12,3911,80
+51,Sindhupalchok,Pagretar,561,415,-,-,2492,50
+52,Sindhupalchok,Palchok,399,582,-,-,1659,13
+53,Sindhupalchok,Pangtang,1229,561,-,624,2333,22
+54,Sindhupalchok,Petaku,412,378,-,-,2052,-
+55,Sindhupalchok,Pipaldanda,564,835,4,-,3736,30
+56,Sindhupalchok,Piskar,904,236,-,28,1781,8
+57,Sindhupalchok,Ramche,834,503,-,34,3367,28
+58,Sindhupalchok,Sangachok,1922,1534,63,759,10156,379
+59,Sindhupalchok,Sanusiruwari,491,903,-,32,3499,31
+60,Sindhupalchok,Selang,1349,625,12,305,2271,60
+61,Sindhupalchok,Sikharpur,527,738,-,-,2279,93
+62,Sindhupalchok,Sindhukot,796,849,-,-,2489,11
+63,Sindhupalchok,Sipa Pokhare,773,923,2,-,3512,16
+64,Sindhupalchok,Sipal Kavre,1047,971,33,12,4103,28
+65,Sindhupalchok,Sunkhani,716,769,-,-,2581,109
+66,Sindhupalchok,Syaule Bazar,1114,1043,8,25,3562,21
+67,Sindhupalchok,Talamarang,417,995,2,69,2505,31
+68,Sindhupalchok,Tatopani,862,262,37,52,2177,53
+69,Sindhupalchok,Tauthali,804,420,-,35,2080,8
+70,Sindhupalchok,Tekanpur,527,291,-,21,1872,1
+71,Sindhupalchok,Thakani,763,1148,8,10,2742,9
+72,Sindhupalchok,Thampal Chhap,605,803,10,35,2179,4
+73,Sindhupalchok,Thangpalkot,439,655,-,9,1812,18
+74,Sindhupalchok,Thokarpa,841,1305,4,1,5363,61
+75,Sindhupalchok,Thulo Dhading,873,321,2,-,2464,200
+76,Sindhupalchok,Thulo Pakhar,667,489,-,-,2933,22
+77,Sindhupalchok,Thulo Sirubari,1070,1520,5,152,6671,260
+78,Sindhupalchok,Thum Pakhar,791,972,2,4,4782,27
+79,Sindhupalchok,Yamunadanda,409,403,3,11,1856,23
+80,Total,-,73780,63199,3184,6461,250156,4233
